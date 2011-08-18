@@ -1,0 +1,10 @@
+A maven project using Spring Data 1.0.0
+
+This example includes:
+
+*. Generic repository methods generated dynamically by Spring Data.
+*. JPA Entity related methods generated dynamically by Spring Data.
+*. Query methods based on named queries.
+*. Extended interfaces for implementing custom queries.
+*. Specification based queries implemented with QueryDSL.
+*. Unit testing with jUnit and Hamcrest.
