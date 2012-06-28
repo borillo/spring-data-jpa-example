@@ -8,3 +8,4 @@ This example includes:
 *. Extended interfaces for implementing custom queries.
 *. Specification based queries implemented with QueryDSL.
 *. Unit testing with jUnit and Hamcrest.
+
